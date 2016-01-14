@@ -55,3 +55,6 @@ docs/_build/
 
 # PyBuilder
 target/
+# exes
+dist_nunux/
+dist_win32/
